@@ -1,4 +1,4 @@
-# Tourists-Place
+
 
 # 🌍 Tourists Website – README.md
 
@@ -32,15 +32,14 @@ tourists-website/
 ├── script.js
 └── images/
 
-## 🚀 How to Run
+## 🚀 Live Website
 
-1. Clone the repository
-2. Open the project folder
-3. Run `index.html` in your browser
+Explore the project here:  
+https://mytourpage17.ccbp.tech
 
 ## 📸 Preview
 
-Add screenshots of your project here.
+
 
 ## 🎯 Purpose
 
@@ -56,6 +55,3 @@ This project was developed to improve frontend development skills and create a v
 ## 👩‍💻 Author
 
 Brindha sri🤍
-
-Konjo professional + student project vibe irukum 😌✨
-Nee GitHub la upload panna clean ah irukum.
