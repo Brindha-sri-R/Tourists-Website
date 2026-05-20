@@ -19,14 +19,13 @@ This project showcases famous tourist destinations, travel information, and attr
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+- HTML
+- CSS
 
 ## 📂 Project Structure
 
 tourists-website/
-│
+│-
 ├── index.html
 ├── style.css
 └── images/
