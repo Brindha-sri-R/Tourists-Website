@@ -1,3 +1,4 @@
+<img width="1358" height="644" alt="image" src="https://github.com/user-attachments/assets/6ee7f57e-68a9-45f4-84a0-d6faf1b3043d" />
 
 # 🌍 Tourists Website – README.md
 
@@ -37,7 +38,7 @@ Explore the project here:
 
 ## 📸 Preview
 
-<img width="1358" height="644" alt="image" src="https://github.com/user-attachments/assets/fc62ab19-ced6-4d05-8d83-0d26e7399051" />
+open - image.png
 
 
 ## 🎯 Purpose
