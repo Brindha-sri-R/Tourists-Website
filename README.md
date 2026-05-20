@@ -5,7 +5,7 @@
 ```md
 # 🌍 Tourists Website
 
-A simple and responsive tourism website created using HTML, CSS, and JavaScript.  
+A simple and responsive tourism website created using HTML and CSS.  
 This project showcases famous tourist destinations, travel information, and attractive UI design for users who love exploring places.
 
 ## ✨ Features
@@ -29,7 +29,6 @@ tourists-website/
 │
 ├── index.html
 ├── style.css
-├── script.js
 └── images/
 
 ## 🚀 Live Website
