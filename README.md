@@ -1,4 +1,4 @@
-
+<img width="1358" height="644" alt="image" src="https://github.com/user-attachments/assets/fc62ab19-ced6-4d05-8d83-0d26e7399051" />
 
 # 🌍 Tourists Website – README.md
 
@@ -39,7 +39,7 @@ https://mytourpage17.ccbp.tech
 
 ## 📸 Preview
 
-
+open - image.png
 
 ## 🎯 Purpose
 
