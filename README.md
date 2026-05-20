@@ -35,7 +35,7 @@ tourists-website/
 ## 🚀 Live Website
 
 Explore the project here:  
-https://mytourpage17.ccbp.tech
+🌐 https://mytourpage.ccbp.tech
 
 ## 📸 Preview
 
