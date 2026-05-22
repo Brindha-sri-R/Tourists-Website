@@ -1,21 +1,18 @@
 <img width="1358" height="644" alt="image" src="https://github.com/user-attachments/assets/6ee7f57e-68a9-45f4-84a0-d6faf1b3043d" />
 
-# 🌍 Tourists Website – README.md
+# 🌍 Tourist Website
 
-```md
-# 🌍 Tourists Website
-
-A simple and responsive tourism website created using HTML and CSS.  
-This project showcases famous tourist destinations, travel information, and attractive UI design for users who love exploring places.
+A responsive tourist website developed using HTML and CSS.  
+This project showcases popular travel destinations, attractive layouts, and a user-friendly interface for travelers.
 
 ## ✨ Features
 
 - Responsive design 📱
-- Beautiful tourist destination cards 🏞️
-- Navigation bar and smooth scrolling 🔗
+- Tourist destination sections 🏞️
 - Attractive homepage layout 🎨
-- Interactive user interface ⚡
-- Easy to customize and expand
+- Navigation bar and smooth scrolling 🔗
+- Bootstrap components ⚡
+- Clean and modern UI ✨
 
 ## 🛠️ Technologies Used
 
@@ -24,32 +21,30 @@ This project showcases famous tourist destinations, travel information, and attr
 
 ## 📂 Project Structure
 
-tourists-website/
-│-
+tourist-website/
+|-
 ├── index.html
 ├── style.css
 └── images/
 
-## 🚀 Live Website
+## 🚀 Live Demo
 
-Explore the project here:  
-🌐 https://mytourpage.ccbp.tech
+🌐 https://mytourpage17.ccbp.tech
 
 ## 📸 Preview
 
-open - image.png
-
+Open - image.png
 
 ## 🎯 Purpose
 
-This project was developed to improve frontend development skills and create a visually appealing tourism-based website.
+This project was created to improve frontend development skills and build a visually appealing tourism-based website using Bootstrap.
 
-## 🙌 Future Improvements
+## 🔮 Future Improvements
 
-- Add booking functionality
-- Include dark mode 🌙
-- Add backend integration
-- Improve animations and UI
+- Add booking functionality ✈️
+- Add dark mode 🌙
+- Improve animations ✨
+- Backend integration 🔥
 
 ## 👩‍💻 Author
 
